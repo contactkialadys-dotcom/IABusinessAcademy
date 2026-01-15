@@ -4,7 +4,7 @@
   "devCommand": "pnpm dev:metro",
   "installCommand": "pnpm install",
   "framework": null,
-  "ignoreCommand": "exit 0",
+  "ignoreCommand": "git diff HEAD^ HEAD --quiet . ':(exclude)README.md'",
   "rewrites": [
     {
       "source": "/(.*)",
