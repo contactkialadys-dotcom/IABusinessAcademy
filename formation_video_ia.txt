@@ -1,0 +1,422 @@
+MINI FORMATION : VIDÉO IA - CRÉER DES VIDÉOS PROFESSIONNELLES AVEC L'IA
+
+ID: "8"
+TITRE: "🎥 Vidéo IA : Créez des vidéos pro en quelques clics"
+DESCRIPTION: "Les vidéos coûtent cher à produire. Découvrez comment créer des vidéos professionnelles pour vos réseaux sociaux et publicités avec l'IA, gratuitement. Fini les monteurs vidéo coûteux !"
+DURÉE: "1h 30min"
+NIVEAU: "Débutant"
+CATÉGORIE: "Création de contenu"
+
+---
+
+MODULE 1 : 🎧 Pourquoi la vidéo est essentielle en 2026
+ID: "8-0"
+TYPE: AUDIO_VIDEO_INTRO
+DESCRIPTION: "Comprenez pourquoi la vidéo est le format #1 pour vendre en ligne"
+
+CONTENU AUDIO :
+"Bienvenue dans cette mini formation sur la création de vidéos avec l'intelligence artificielle ! 
+
+Saviez-vous que les vidéos génèrent 1200% plus de partages que les images et le texte combinés ? En 2026, 82% du trafic internet est constitué de vidéos. Si vous ne créez pas de vidéos pour votre business, vous perdez des milliers de clients potentiels.
+
+Le problème ? Créer des vidéos coûte cher. Un monteur vidéo professionnel facture entre 300 et 1000 euros par vidéo. Pour un entrepreneur qui a besoin de publier 3 à 5 vidéos par semaine, cela représente un budget mensuel de 5000 à 20000 euros !
+
+C'est là que l'intelligence artificielle change tout. Avec les bons outils, vous pouvez créer des vidéos professionnelles en quelques clics, gratuitement. Dans cette formation, vous allez découvrir comment créer des vidéos pour vos réseaux sociaux, vos publicités, et même des vidéos de vente, sans aucune compétence technique.
+
+Prêt à transformer votre business avec la vidéo ? C'est parti !"
+
+---
+
+MODULE 2 : Les meilleurs outils IA pour créer des vidéos
+ID: "8-1"
+DESCRIPTION: "Découvrez les outils gratuits et puissants pour créer vos vidéos"
+
+CONTENU :
+🎬 LES MEILLEURS OUTILS VIDÉO IA (GRATUITS)
+
+1. RUNWAY ML (runway.ml)
+✓ Génère des vidéos à partir de texte
+✓ 125 crédits gratuits/mois
+✓ Qualité professionnelle
+
+Exemple d'utilisation :
+"Crée une vidéo de 5 secondes montrant un produit cosmétique tournant sur fond beige élégant, lumière douce, style publicitaire"
+
+2. PIKA LABS (pika.art)
+✓ Transforme des images en vidéos
+✓ Gratuit en version beta
+✓ Animations fluides
+
+Parfait pour animer vos photos produits !
+
+3. CAPCUT (capcut.com)
+✓ Montage vidéo IA
+✓ Sous-titres automatiques
+✓ Effets et transitions pro
+✓ 100% GRATUIT
+
+4. ELEVEN LABS (elevenlabs.io)
+✓ Voix off IA ultra réalistes
+✓ 10 000 caractères gratuits/mois
+✓ Voix en français
+
+5. CANVA VIDÉO
+✓ Templates vidéo prêts à l'emploi
+✓ Animations automatiques
+✓ Musique libre de droits
+
+💡 STRATÉGIE : Combinez ces outils pour créer des vidéos complètes !
+
+Exemple de workflow :
+1. Générez votre vidéo avec Runway
+2. Ajoutez une voix off avec Eleven Labs
+3. Montez le tout dans CapCut
+4. Ajoutez des sous-titres automatiques
+
+RÉSULTAT : Une vidéo pro en 15 minutes !
+
+---
+
+MODULE 3 : Créer une vidéo produit avec Runway ML
+ID: "8-2"
+DESCRIPTION: "Guide étape par étape pour créer votre première vidéo produit"
+
+CONTENU :
+📹 CRÉER UNE VIDÉO PRODUIT PROFESSIONNELLE
+
+ÉTAPE 1 : Créer un compte Runway
+- Allez sur runway.ml
+- Inscrivez-vous gratuitement
+- Vous recevez 125 crédits gratuits
+
+ÉTAPE 2 : Choisir le bon outil
+Runway propose plusieurs outils :
+- Gen-2 : Texte vers vidéo
+- Image to Video : Image vers vidéo
+- Motion Brush : Animer des parties spécifiques
+
+Pour un produit, utilisez "Gen-2"
+
+ÉTAPE 3 : Rédiger votre prompt vidéo
+Structure du prompt :
+"[ACTION] de [PRODUIT], [DESCRIPTION], [MOUVEMENT], [STYLE], [ÉCLAIRAGE], [DURÉE]"
+
+EXEMPLES CONCRETS :
+
+Pour cosmétiques :
+"Rotation lente d'un rouge à lèvres luxueux sur fond beige, reflets dorés, mouvement fluide, style publicitaire haut de gamme, éclairage studio doux, 5 secondes"
+
+Pour bijoux :
+"Zoom avant sur un collier en or avec diamants, fond noir velours, rotation élégante, reflets brillants, style joaillerie luxe, 4 secondes"
+
+Pour vêtements :
+"Présentation d'une robe flottante en mouvement, fond blanc minimaliste, tissu fluide, style catalogue mode, lumière naturelle, 6 secondes"
+
+Pour chaussures :
+"Rotation 360° de baskets blanches, fond coloré dynamique, mouvement énergique, style streetwear moderne, éclairage vif, 5 secondes"
+
+ÉTAPE 4 : Générer et télécharger
+- Cliquez sur "Generate"
+- Attendez 1-2 minutes
+- Téléchargez en HD
+
+💰 COÛT : 5 crédits par vidéo = 25 vidéos gratuites/mois !
+
+---
+
+MODULE 4 : Ajouter une voix off professionnelle
+ID: "8-3"
+DESCRIPTION: "Créez des voix off réalistes avec Eleven Labs"
+
+CONTENU :
+🎤 CRÉER UNE VOIX OFF IA RÉALISTE
+
+POURQUOI UNE VOIX OFF ?
+- Augmente l'engagement de 80%
+- Explique votre produit clairement
+- Rend vos vidéos plus professionnelles
+
+ÉTAPE 1 : Créer un compte Eleven Labs
+- Allez sur elevenlabs.io
+- Inscrivez-vous gratuitement
+- 10 000 caractères gratuits/mois
+
+ÉTAPE 2 : Choisir une voix
+Eleven Labs propose des dizaines de voix :
+- Voix féminines et masculines
+- Différents accents
+- Différentes émotions
+
+Pour l'Afrique francophone, choisissez une voix française claire et chaleureuse.
+
+ÉTAPE 3 : Rédiger votre script
+Gardez-le court et percutant !
+
+STRUCTURE GAGNANTE (30 secondes) :
+
+1. HOOK (3 secondes)
+"Vous cherchez [SOLUTION] ?"
+
+2. PROBLÈME (5 secondes)
+"Le problème avec [PROBLÈME ACTUEL]..."
+
+3. SOLUTION (10 secondes)
+"Découvrez [VOTRE PRODUIT], qui [BÉNÉFICE PRINCIPAL]"
+
+4. PREUVE (7 secondes)
+"Déjà [NOMBRE] clients satisfaits"
+
+5. CTA (5 secondes)
+"Commandez maintenant sur [SITE]"
+
+EXEMPLE CONCRET :
+
+"Vous cherchez un rouge à lèvres longue tenue ? Le problème avec les rouges à lèvres classiques, c'est qu'ils partent après 2 heures. Découvrez notre Rouge Luxe 24h, qui tient toute la journée sans retouche. Déjà 5000 clientes satisfaites en Afrique. Commandez maintenant sur notre site !"
+
+ÉTAPE 4 : Générer et télécharger
+- Collez votre texte
+- Cliquez sur "Generate"
+- Téléchargez le fichier MP3
+
+---
+
+MODULE 5 : Monter votre vidéo avec CapCut
+ID: "8-4"
+DESCRIPTION: "Assemblez tous les éléments pour créer une vidéo complète"
+
+CONTENU :
+✂️ MONTAGE VIDÉO PROFESSIONNEL AVEC CAPCUT
+
+CapCut est 100% GRATUIT et ultra puissant !
+
+ÉTAPE 1 : Télécharger CapCut
+- Version web : capcut.com
+- Ou application mobile (iOS/Android)
+
+ÉTAPE 2 : Importer vos éléments
+- Votre vidéo produit (Runway)
+- Votre voix off (Eleven Labs)
+- Musique de fond (bibliothèque CapCut)
+
+ÉTAPE 3 : Assembler
+1. Glissez votre vidéo sur la timeline
+2. Ajoutez la voix off
+3. Ajoutez une musique de fond (volume à 20%)
+4. Synchronisez tout
+
+ÉTAPE 4 : Ajouter des sous-titres automatiques
+- Cliquez sur "Captions"
+- Sélectionnez "Auto captions"
+- Choisissez le français
+- CapCut génère les sous-titres automatiquement !
+
+💡 ASTUCE : 85% des vidéos sont regardées sans son sur les réseaux sociaux. Les sous-titres sont ESSENTIELS !
+
+ÉTAPE 5 : Ajouter des effets
+- Transitions entre les scènes
+- Zoom sur le produit
+- Texte animé (prix, promo)
+- Effets de lumière
+
+ÉTAPE 6 : Exporter
+- Format : MP4
+- Qualité : 1080p (HD)
+- Ratio : 9:16 (vertical) pour Instagram/TikTok
+- Ratio : 16:9 (horizontal) pour YouTube/Facebook
+
+DURÉE TOTALE DU MONTAGE : 15-20 minutes
+
+---
+
+MODULE 6 : Créer des vidéos virales pour TikTok et Reels
+ID: "8-5"
+DESCRIPTION: "Les formats qui fonctionnent sur les réseaux sociaux"
+
+CONTENU :
+🔥 CRÉER DES VIDÉOS VIRALES
+
+LES FORMATS QUI MARCHENT EN 2026 :
+
+1. BEFORE/AFTER (Avant/Après)
+- Montrez le problème
+- Montrez la solution avec votre produit
+- Durée : 7-15 secondes
+
+2. UNBOXING
+- Filmez l'ouverture de votre produit
+- Montrez les détails
+- Réaction authentique
+- Durée : 15-30 secondes
+
+3. TUTORIEL EXPRESS
+- "Comment utiliser [PRODUIT] en 3 étapes"
+- Étapes claires et rapides
+- Résultat final impressionnant
+- Durée : 20-40 secondes
+
+4. TÉMOIGNAGE CLIENT
+- Client satisfait qui parle de votre produit
+- Résultats concrets
+- Authentique et crédible
+- Durée : 15-30 secondes
+
+5. COULISSES
+- Montrez comment vous créez vos produits
+- Processus de fabrication
+- Votre histoire
+- Durée : 20-45 secondes
+
+RÈGLES D'OR POUR DEVENIR VIRAL :
+
+✓ Hook dans les 3 premières secondes
+✓ Sous-titres sur toute la vidéo
+✓ Musique tendance
+✓ Format vertical 9:16
+✓ Qualité HD minimum
+✓ CTA clair à la fin
+
+FRÉQUENCE DE PUBLICATION :
+- TikTok : 1-3 vidéos/jour
+- Instagram Reels : 1-2 vidéos/jour
+- Facebook : 3-5 vidéos/semaine
+
+💡 ASTUCE : Réutilisez la même vidéo sur toutes les plateformes !
+
+---
+
+MODULE 7 : Créer des publicités vidéo qui convertissent
+ID: "8-6"
+DESCRIPTION: "Les vidéos publicitaires qui génèrent des ventes"
+
+CONTENU :
+💰 PUBLICITÉS VIDÉO QUI VENDENT
+
+STRUCTURE D'UNE PUB VIDÉO GAGNANTE (30 secondes) :
+
+SECONDES 1-3 : HOOK PUISSANT
+- Question choc
+- Problème identifiable
+- Statistique surprenante
+
+Exemples :
+"Vous dépensez 500€ en maquillage chaque année ?"
+"80% des femmes ont ce problème de peau"
+"Arrêtez de gaspiller votre argent !"
+
+SECONDES 4-10 : PROBLÈME
+- Amplifiez la douleur
+- Montrez les conséquences
+- Créez l'urgence
+
+SECONDES 11-20 : SOLUTION
+- Présentez votre produit
+- Montrez-le en action
+- Expliquez le bénéfice principal
+
+SECONDES 21-27 : PREUVE SOCIALE
+- Témoignages
+- Nombre de clients
+- Résultats concrets
+
+SECONDES 28-30 : CTA FORT
+- "Commandez maintenant"
+- "Lien en bio"
+- "Offre limitée"
+
+FORMATS PUBLICITAIRES :
+
+1. VIDÉO CARROUSEL
+- 3-5 vidéos courtes
+- Chacune montre un bénéfice différent
+- Swipe pour voir la suite
+
+2. VIDÉO LONGUE (60-90 secondes)
+- Pour Facebook
+- Plus de détails sur le produit
+- Témoignages clients
+
+3. VIDÉO COURTE (15 secondes)
+- Pour Stories Instagram/Facebook
+- Message simple et direct
+- CTA immédiat
+
+BUDGET RECOMMANDÉ :
+- Testez avec 5-10€/jour
+- Gardez les vidéos qui performent
+- Augmentez le budget progressivement
+
+MÉTRIQUES À SURVEILLER :
+- Taux de visionnage : 50%+ = Bon
+- CTR (taux de clic) : 2%+ = Bon
+- ROAS (retour sur investissement) : 3x+ = Rentable
+
+---
+
+MODULE 8 : Économisez des milliers d'euros en production vidéo
+ID: "8-7"
+DESCRIPTION: "Pourquoi les entrepreneurs gaspillent leur argent en vidéos"
+
+CONTENU :
+💸 LA RÉALITÉ DE LA PRODUCTION VIDÉO
+
+CE QUE LES ENTREPRENEURS DÉPENSENT :
+
+VIDÉO PROFESSIONNELLE CLASSIQUE :
+- Vidéaste : 500-2000€/jour
+- Location matériel : 200-500€
+- Studio : 300-800€/jour
+- Monteur : 300-1000€
+- Acteur/modèle : 300-1000€
+
+TOTAL : 1600-5300€ par vidéo !
+
+FRÉQUENCE NÉCESSAIRE :
+- E-commerce : 10-20 vidéos/mois
+- Budget annuel : 200 000 - 1 000 000€
+
+⚠️ LE PROBLÈME :
+
+1. Budget énorme qui pourrait servir à la publicité
+2. Production lente (1-2 semaines par vidéo)
+3. Modifications = nouveau tournage = nouveaux frais
+4. Impossible de tester rapidement
+
+✨ LA SOLUTION : L'IA
+
+AVEC LES OUTILS IA (GRATUITS) :
+- 0€ de coût
+- Vidéos illimitées 24/7
+- Modifications en quelques clics
+- Testez 10 variations en 1 heure
+
+🚀 CE QUE VOUS POUVEZ FAIRE AVEC L'ARGENT ÉCONOMISÉ :
+
+✓ Investir massivement dans la publicité
+✓ Acheter plus de stock
+✓ Embaucher une équipe
+✓ Ouvrir de nouveaux marchés
+
+💡 EXEMPLE RÉEL :
+
+Entrepreneur A (méthode classique) :
+- 20 vidéos/mois = 40 000€
+- Budget pub : 10 000€
+- Total : 50 000€
+
+Entrepreneur B (méthode IA) :
+- 20 vidéos/mois = 0€
+- Budget pub : 50 000€
+- Total : 50 000€
+
+Résultat : Entrepreneur B génère 5x plus de ventes avec le même budget !
+
+Les entrepreneurs qui maîtrisent la vidéo IA dominent leur marché. Pendant que les autres dépensent des fortunes en production, vous créez du contenu illimité et réinvestissez dans la croissance.
+
+---
+
+MODULE 9 : 📱 Accédez au contenu complet sur WhatsApp
+ID: "8-8"
+TYPE: WHATSAPP_LINK
+DESCRIPTION: "Rejoignez notre groupe WhatsApp pour accéder à tous les tutoriels vidéo et templates"
+
+CONTENU : WHATSAPP_LINK

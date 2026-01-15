@@ -1,0 +1,59 @@
+# Dépendances
+node_modules/
+
+# Fichiers de build
+.expo/
+.expo-shared/
+dist/
+web-build/
+
+# Cache
+.cache/
+*.log
+
+# Tests
+__tests__/
+*.test.ts
+*.test.tsx
+coverage/
+
+# Documentation et fichiers de développement
+README.md
+CONTRIBUTING.md
+LICENSE
+DEPLOYMENT.md
+NETLIFY.md
+GOOGLE_ANALYTICS_SETUP.md
+VERSION_NOTES.md
+VERCEL_RECOMMENDATIONS.md
+todo.md
+design.md
+
+# Fichiers de configuration locaux
+.env.local
+.env.development
+.DS_Store
+Thumbs.db
+
+# Git
+.git/
+.gitignore
+
+# Scripts Python
+*.py
+
+# Fichiers temporaires
+*.tmp
+*.temp
+formation_*.txt
+formation_*.js
+
+# Drizzle (base de données)
+drizzle/
+
+# Server (exclure complètement pour éviter les erreurs TS)
+server/
+tests/
+
+# Fichiers TypeScript de configuration serveur
+tsconfig.server.json
